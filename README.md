@@ -1,2 +1,2 @@
 hello world
-initial text hello
+initial text
